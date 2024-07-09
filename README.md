@@ -56,4 +56,7 @@ To use this project, follow these steps:
 
 This project provides a practical implementation of an ALU calculator using 8086 assembly language, showcasing the capabilities of the Intel 8086 microprocessor. It serves as a valuable educational tool for understanding the inner workings of ALUs and the 8086 assembly language.
 
+![image](https://github.com/17himanshu/8086-Assembly-Calculator/assets/96365482/258668b7-b40a-44c3-8311-cfc928a1051d)
+
+
 
